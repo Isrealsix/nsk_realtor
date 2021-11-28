@@ -18,6 +18,7 @@ const Banner = ({ purpose, title1, title2, desc1, desc2, buttonText, linkName, i
     </Box>
   </Flex>
 )
+
 export default function Home({ propertiesForSale, propertiesForRent }) {
   return (
     <Box>
